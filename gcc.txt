@@ -1,0 +1,14 @@
+gcc test.c -std=c99 -Wall 
+
+
+
+computer arch text
+https://books.google.com/books?id=D4nLBQAAQBAJ&pg=PA91&lpg=PA91&dq=a+perticular+program+runs+on+a+system+with+chache+memory+a+program+makes+a+total+of+250000+memory+references,+235000+are+caches
+
+
+
+
+https://github.com/uayyagari/Cache-Simulator/blob/master/cachesimulator.cpp
+
+
+
